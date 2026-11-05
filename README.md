@@ -111,7 +111,7 @@ before it scaffolds.
 Loamkit is distributed as a plugin through a GitHub marketplace:
 
 ```text
-/plugin marketplace add jaymadeapp/Loamkit
+/plugin marketplace add thetedotgg/Loamkit
 /plugin install loamkit@loamkit
 ```
 

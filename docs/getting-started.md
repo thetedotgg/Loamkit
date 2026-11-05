@@ -11,7 +11,7 @@ notes called out below. Every step lists a checkpoint so you know it worked.
 ## 0. Prerequisites
 
 - **Claude Code** with the Loamkit plugin installed
-  (`/plugin marketplace add jaymadeapp/Loamkit` → `/plugin install loamkit@loamkit`).
+  (`/plugin marketplace add thetedotgg/Loamkit` → `/plugin install loamkit@loamkit`).
 - **PHP 8.4+**, **Composer**, **Node.js**, and **DDEV** on a container engine
   (`brew install ddev/ddev/ddev` + `mkcert -install`). See the README §2.
 
